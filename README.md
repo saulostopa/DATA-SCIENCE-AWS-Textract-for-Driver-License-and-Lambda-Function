@@ -2,10 +2,11 @@
 
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="License Plate Recognition" width="200">
-
   <h1 align="center">Extract text with AWS Textract for Driver License</h1>
+  <img src="images/logo.png" alt="License Plate Recognition" width="500">
 
+  <br />
+  
   <p align="center">
     Amazon Textract enables you to add document text detection and analysis to your applications. You provide a document image to the Amazon Textract API, and the service detects the document text.
     <br />
