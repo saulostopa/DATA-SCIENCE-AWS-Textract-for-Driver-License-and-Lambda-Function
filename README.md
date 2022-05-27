@@ -29,7 +29,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
 
 * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 * [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
-* [AWS Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+* [AWS API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
 * [AWS Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
 
 ## How to use:
@@ -47,6 +47,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
 6. Update your lambda function with code used in this project 
 
 7. Call API bellow in Insomnia or Postman via GET sending the key as name of image to recognize stored on AWS S3.
+
+<center><img src="src/images/driver-license-ex10.jpeg" width="500" /></center>
 
 ```sh
   https://abcdefghijkl.lambda-url.us-east-1.on.aws/?key=driver-license-ex10.jpeg
