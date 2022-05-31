@@ -49,7 +49,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
 7. Call API bellow in Insomnia or Postman via GET sending the key as name of image to recognize stored on AWS S3.
 
 <div align="center">
-  <img src="src/images/driver-license-ex10.jpeg" width="400" />
+  <img src="src/images/driver-license-alabama.png" width="400" />
 </div>
   
 ```sh
@@ -65,8 +65,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "FIRST_NAME"
       },
       "ValueDetection": {
-        "Text": "HEIDI",
-        "Confidence": 98.81047058105469
+        "Text": "CONNOR",
+        "Confidence": 97.5824203491211
       }
     },
     {
@@ -75,7 +75,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "SAMPLE",
-        "Confidence": 99.53699493408203
+        "Confidence": 99.63204193115234
       }
     },
     {
@@ -83,8 +83,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "MIDDLE_NAME"
       },
       "ValueDetection": {
-        "Text": "",
-        "Confidence": 99.70015716552734
+        "Text": "HUGH B",
+        "Confidence": 94.02507781982422
       }
     },
     {
@@ -93,7 +93,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "",
-        "Confidence": 99.67569732666016
+        "Confidence": 99.67054748535156
       }
     },
     {
@@ -101,8 +101,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "CITY_IN_ADDRESS"
       },
       "ValueDetection": {
-        "Text": "MOBILE",
-        "Confidence": 99.15963745117188
+        "Text": "MONTGOMERY",
+        "Confidence": 97.9351806640625
       }
     },
     {
@@ -110,8 +110,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "ZIP_CODE_IN_ADDRESS"
       },
       "ValueDetection": {
-        "Text": "366085658",
-        "Confidence": 97.74677276611328
+        "Text": "361041234",
+        "Confidence": 98.50426483154297
       }
     },
     {
@@ -120,7 +120,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "AL",
-        "Confidence": 99.2925796508789
+        "Confidence": 99.36796569824219
       }
     },
     {
@@ -129,7 +129,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "ALABAMA",
-        "Confidence": 98.01220703125
+        "Confidence": 64.47396850585938
       }
     },
     {
@@ -137,8 +137,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "DOCUMENT_NUMBER"
       },
       "ValueDetection": {
-        "Text": "12345678",
-        "Confidence": 93.5861587524414
+        "Text": "1234567",
+        "Confidence": 98.24909973144531
       }
     },
     {
@@ -146,12 +146,12 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "EXPIRATION_DATE"
       },
       "ValueDetection": {
-        "Text": "09-04-2022",
+        "Text": "01-05-2014",
         "NormalizedValue": {
-          "Value": "2022-09-04T00:00:00",
+          "Value": "2014-01-05T00:00:00",
           "ValueType": "Date"
         },
-        "Confidence": 98.82935333251953
+        "Confidence": 98.22144317626953
       }
     },
     {
@@ -159,12 +159,12 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "DATE_OF_BIRTH"
       },
       "ValueDetection": {
-        "Text": "05-05-1984",
+        "Text": "01-05-1948",
         "NormalizedValue": {
-          "Value": "1984-05-05T00:00:00",
+          "Value": "1948-01-05T00:00:00",
           "ValueType": "Date"
         },
-        "Confidence": 97.51498413085938
+        "Confidence": 97.7793960571289
       }
     },
     {
@@ -172,12 +172,12 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "DATE_OF_ISSUE"
       },
       "ValueDetection": {
-        "Text": "09-04-2018",
+        "Text": "01-05-2010",
         "NormalizedValue": {
-          "Value": "2018-09-04T00:00:00",
+          "Value": "2010-01-05T00:00:00",
           "ValueType": "Date"
         },
-        "Confidence": 99.2076644897461
+        "Confidence": 97.62773895263672
       }
     },
     {
@@ -186,7 +186,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "DRIVER LICENSE FRONT",
-        "Confidence": 99.00804138183594
+        "Confidence": 98.75053405761719
       }
     },
     {
@@ -195,7 +195,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "",
-        "Confidence": 99.68843841552734
+        "Confidence": 99.68603515625
       }
     },
     {
@@ -204,7 +204,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "",
-        "Confidence": 99.6418685913086
+        "Confidence": 99.60050201416016
       }
     },
     {
@@ -212,8 +212,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "RESTRICTIONS"
       },
       "ValueDetection": {
-        "Text": "ATIL",
-        "Confidence": 96.42962646484375
+        "Text": "A",
+        "Confidence": 98.69237518310547
       }
     },
     {
@@ -222,7 +222,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "D",
-        "Confidence": 99.12686157226562
+        "Confidence": 99.1164779663086
       }
     },
     {
@@ -230,8 +230,8 @@ This section list the major frameworks/libraries/services used to bootstrap this
         "Text": "ADDRESS"
       },
       "ValueDetection": {
-        "Text": "1234 SAMPLE STREET",
-        "Confidence": 98.16610717773438
+        "Text": "",
+        "Confidence": 47.532798767089844
       }
     },
     {
@@ -240,7 +240,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "",
-        "Confidence": 99.62462615966797
+        "Confidence": 99.65638732910156
       }
     },
     {
@@ -249,7 +249,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
       },
       "ValueDetection": {
         "Text": "",
-        "Confidence": 99.69915008544922
+        "Confidence": 99.60488891601562
       }
     }
   ]
