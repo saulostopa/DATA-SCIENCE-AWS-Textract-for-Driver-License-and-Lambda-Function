@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "JUN",
-			"Confidence": 99.35908508300781
+			"Text": "JANICE",
+			"Confidence": 99.38528442382812
 		}
 	},
 	{
@@ -14,7 +14,7 @@
 		},
 		"ValueDetection": {
 			"Text": "SAMPLE",
-			"Confidence": 99.39805603027344
+			"Confidence": 99.56031799316406
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "MARIE",
-			"Confidence": 99.16026306152344
+			"Text": "",
+			"Confidence": 98.89362335205078
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.60102081298828
+			"Confidence": 99.6103515625
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "MINNEAPOLIS",
-			"Confidence": 98.66885375976562
+			"Text": "",
+			"Confidence": 39.1697883605957
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "554171234",
-			"Confidence": 97.21316528320312
+			"Text": "",
+			"Confidence": 1.2081557512283325
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "MN",
-			"Confidence": 98.99555969238281
+			"Text": "TN",
+			"Confidence": 99.22980499267578
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "MINNESOTA",
-			"Confidence": 98.45260620117188
+			"Text": "TENNESSEE",
+			"Confidence": 98.3934326171875
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 15.468421936035156
+			"Text": "123456789",
+			"Confidence": 98.40345764160156
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "08/20/2022",
+			"Text": "02/11/2026",
 			"NormalizedValue": {
-				"Value": "2022-08-20T00:00:00",
+				"Value": "2026-02-11T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.13794708251953
+			"Confidence": 98.77064514160156
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "08/20/2001",
+			"Text": "02/11/1974",
 			"NormalizedValue": {
-				"Value": "2001-08-20T00:00:00",
+				"Value": "1974-02-11T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.5014877319336
+			"Confidence": 98.49068450927734
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "08/20/2018",
+			"Text": "02/11/2019",
 			"NormalizedValue": {
-				"Value": "2018-08-20T00:00:00",
+				"Value": "2019-02-11T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.26264190673828
+			"Confidence": 98.88806915283203
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.56486511230469
+			"Confidence": 98.9505844116211
 		}
 	},
 	{
@@ -134,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.14913940429688
+			"Confidence": 99.37579345703125
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.63273620605469
+			"Confidence": 99.57441711425781
 		}
 	},
 	{
@@ -151,8 +151,8 @@
 			"Text": "RESTRICTIONS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 99.24221801757812
+			"Text": "01",
+			"Confidence": 99.12528991699219
 		}
 	},
 	{
@@ -161,7 +161,7 @@
 		},
 		"ValueDetection": {
 			"Text": "D",
-			"Confidence": 98.74398040771484
+			"Confidence": 98.95763397216797
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "123 BLOOMINGTON AVE",
-			"Confidence": 97.8648910522461
+			"Text": "123 MAIN STREET APT 1",
+			"Confidence": 81.53926849365234
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.58393859863281
+			"Confidence": 99.56350708007812
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.60407257080078
+			"Confidence": 99.57521057128906
 		}
 	}
 ]

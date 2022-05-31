@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "JOHN",
-			"Confidence": 99.28160095214844
+			"Text": "JELANI",
+			"Confidence": 98.70321655273438
 		}
 	},
 	{
@@ -14,7 +14,7 @@
 		},
 		"ValueDetection": {
 			"Text": "SAMPLE",
-			"Confidence": 99.18350982666016
+			"Confidence": 99.04898834228516
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "LEWIS",
-			"Confidence": 98.73667907714844
+			"Text": "",
+			"Confidence": 99.44202423095703
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.66715240478516
+			"Confidence": 99.582763671875
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "SALT LAKE CITY",
-			"Confidence": 98.61974334716797
+			"Text": "PHOENIX",
+			"Confidence": 99.09656524658203
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "84115",
-			"Confidence": 99.17530822753906
+			"Text": "85007",
+			"Confidence": 98.53865814208984
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "UT",
-			"Confidence": 98.7711181640625
+			"Text": "AZ",
+			"Confidence": 98.66627502441406
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "UTAH",
-			"Confidence": 95.45005798339844
+			"Text": "ARIZONA",
+			"Confidence": 98.81494140625
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "123456789",
-			"Confidence": 98.72195434570312
+			"Text": "D08954796",
+			"Confidence": 97.9458999633789
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "10/27/2029",
+			"Text": "03/01/2024",
 			"NormalizedValue": {
-				"Value": "2029-10-27T00:00:00",
+				"Value": "2024-03-01T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.29535675048828
+			"Confidence": 98.20677947998047
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "10/27/1969",
+			"Text": "01/01/1974",
 			"NormalizedValue": {
-				"Value": "1969-10-27T00:00:00",
+				"Value": "1974-01-01T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.46855163574219
+			"Confidence": 98.1207504272461
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "11/09/2021",
+			"Text": "03/01/2016",
 			"NormalizedValue": {
-				"Value": "2021-11-09T00:00:00",
+				"Value": "2016-03-01T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.41500854492188
+			"Confidence": 98.68988037109375
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.89476776123047
+			"Confidence": 98.96858978271484
 		}
 	},
 	{
@@ -134,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.36920166015625
+			"Confidence": 99.24076080322266
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "VETERAN",
-			"Confidence": 99.31893157958984
+			"Confidence": 99.00702667236328
 		}
 	},
 	{
@@ -151,8 +151,8 @@
 			"Text": "RESTRICTIONS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 99.2861099243164
+			"Text": "B",
+			"Confidence": 99.26091003417969
 		}
 	},
 	{
@@ -161,7 +161,7 @@
 		},
 		"ValueDetection": {
 			"Text": "D",
-			"Confidence": 99.04913330078125
+			"Confidence": 98.93558502197266
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "200 SOUTH MAIN STREET",
-			"Confidence": 98.74812316894531
+			"Text": "123 MAIN ST",
+			"Confidence": 98.2219467163086
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.5914306640625
+			"Confidence": 99.58270263671875
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.66154479980469
+			"Confidence": 99.65587615966797
 		}
 	}
 ]

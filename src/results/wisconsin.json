@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "MINGZI",
-			"Confidence": 98.1491470336914
+			"Text": "DEREK",
+			"Confidence": 98.5763168334961
 		}
 	},
 	{
@@ -13,8 +13,8 @@
 			"Text": "LAST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "XING",
-			"Confidence": 98.64232635498047
+			"Text": "SAMPLE",
+			"Confidence": 99.3089370727539
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 99.77323913574219
+			"Text": "THOMAS",
+			"Confidence": 98.55304718017578
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.43966674804688
+			"Confidence": 99.6681137084961
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "ANYTOWN",
-			"Confidence": 98.66644287109375
+			"Text": "MADISON",
+			"Confidence": 98.80225372314453
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "12345",
-			"Confidence": 99.21041107177734
+			"Text": "53705",
+			"Confidence": 98.5255126953125
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "NY",
-			"Confidence": 98.94454193115234
+			"Text": "WI",
+			"Confidence": 99.36543273925781
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "NEW YORK",
-			"Confidence": 99.17109680175781
+			"Text": "WISCONSIN",
+			"Confidence": 98.49485778808594
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 42.077781677246094
+			"Text": "S1234567650100",
+			"Confidence": 59.704593658447266
 		}
 	},
 	{
@@ -85,8 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 80.86837005615234
+			"Text": "02/11/2023",
+			"NormalizedValue": {
+				"Value": "2023-02-11T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.5390396118164
 		}
 	},
 	{
@@ -94,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "06-09-85",
+			"Text": "02/11/1974",
 			"NormalizedValue": {
-				"Value": "1985-06-09T00:00:00",
+				"Value": "1974-02-11T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.16716003417969
+			"Confidence": 98.2094955444336
 		}
 	},
 	{
@@ -107,8 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 96.95722961425781
+			"Text": "10/31/2015",
+			"NormalizedValue": {
+				"Value": "2015-10-31T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.39613342285156
 		}
 	},
 	{
@@ -117,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.75186920166016
+			"Confidence": 99.08290100097656
 		}
 	},
 	{
@@ -126,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.35771942138672
+			"Confidence": 99.32231140136719
 		}
 	},
 	{
@@ -135,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.6606216430664
+			"Confidence": 99.58372497558594
 		}
 	},
 	{
@@ -143,8 +151,8 @@
 			"Text": "RESTRICTIONS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 99.108642578125
+			"Text": "",
+			"Confidence": 99.55316925048828
 		}
 	},
 	{
@@ -152,8 +160,8 @@
 			"Text": "CLASS"
 		},
 		"ValueDetection": {
-			"Text": "C",
-			"Confidence": 98.76346588134766
+			"Text": "D",
+			"Confidence": 98.94197082519531
 		}
 	},
 	{
@@ -161,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "2345 ANYPLACE AVE",
-			"Confidence": 97.494140625
+			"Text": "4802 SHEBOYGAN AVE",
+			"Confidence": 97.9861068725586
 		}
 	},
 	{
@@ -171,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.64083099365234
+			"Confidence": 99.60044860839844
 		}
 	},
 	{
@@ -180,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.72115325927734
+			"Confidence": 99.63985443115234
 		}
 	}
 ]

@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "JUDY",
-			"Confidence": 98.90044403076172
+			"Text": "BETTY",
+			"Confidence": 99.26459503173828
 		}
 	},
 	{
@@ -13,8 +13,8 @@
 			"Text": "LAST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "DOE",
-			"Confidence": 99.06439208984375
+			"Text": "SAMPLE",
+			"Confidence": 99.31270599365234
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "JANE",
-			"Confidence": 98.81674194335938
+			"Text": "NELSON",
+			"Confidence": 98.6311264038086
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.62500762939453
+			"Confidence": 99.67739868164062
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "SAN DIEGO",
-			"Confidence": 97.98878479003906
+			"Text": "SAL KAKE CITY",
+			"Confidence": 76.28742218017578
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "92101",
-			"Confidence": 98.61610412597656
+			"Text": "84111",
+			"Confidence": 99.06551361083984
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "CA",
-			"Confidence": 99.18571472167969
+			"Text": "UT",
+			"Confidence": 98.81314849853516
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "CALIFORNIA",
-			"Confidence": 97.93868255615234
+			"Text": "UTAH",
+			"Confidence": 98.04706573486328
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 47.950191497802734
+			"Text": "214471252",
+			"Confidence": 98.86734771728516
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "01/01/2020",
+			"Text": "10/29/2020",
 			"NormalizedValue": {
-				"Value": "2020-01-01T00:00:00",
+				"Value": "2020-10-29T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.28250122070312
+			"Confidence": 98.6444091796875
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "01/01/1997",
+			"Text": "10/13/1992",
 			"NormalizedValue": {
-				"Value": "1997-01-01T00:00:00",
+				"Value": "1992-10-13T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.18220520019531
+			"Confidence": 98.09690856933594
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "10/25/2015",
+			"Text": "10/29/2018",
 			"NormalizedValue": {
-				"Value": "2015-10-25T00:00:00",
+				"Value": "2018-10-29T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.03738403320312
+			"Confidence": 99.01897430419922
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.93341064453125
+			"Confidence": 98.76915740966797
 		}
 	},
 	{
@@ -133,8 +133,8 @@
 			"Text": "ENDORSEMENTS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 98.96669006347656
+			"Text": "M",
+			"Confidence": 99.21199035644531
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.59456634521484
+			"Confidence": 99.65909576416016
 		}
 	},
 	{
@@ -151,8 +151,8 @@
 			"Text": "RESTRICTIONS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 99.2004623413086
+			"Text": "A",
+			"Confidence": 99.06689453125
 		}
 	},
 	{
@@ -160,8 +160,8 @@
 			"Text": "CLASS"
 		},
 		"ValueDetection": {
-			"Text": "C",
-			"Confidence": 98.8336410522461
+			"Text": "D",
+			"Confidence": 99.00811767578125
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "2244 2ND AVE",
-			"Confidence": 97.36703491210938
+			"Text": "",
+			"Confidence": 3.2559590339660645
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.5202865600586
+			"Confidence": 99.625244140625
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.63290405273438
+			"Confidence": 99.65925598144531
 		}
 	}
 ]

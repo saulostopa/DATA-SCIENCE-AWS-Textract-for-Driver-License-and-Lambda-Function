@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "STEVEN",
-			"Confidence": 98.60289001464844
+			"Text": "JUSTIN",
+			"Confidence": 99.13475036621094
 		}
 	},
 	{
@@ -13,8 +13,8 @@
 			"Text": "LAST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 96.70048522949219
+			"Text": "MAURY",
+			"Confidence": 98.45507049560547
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "HINN",
-			"Confidence": 99.51296997070312
+			"Text": "WILLIAM",
+			"Confidence": 98.71366882324219
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.67755889892578
+			"Confidence": 98.58134460449219
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "LEXINGTON",
-			"Confidence": 96.93653106689453
+			"Text": "RICHMOND",
+			"Confidence": 99.00642395019531
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "290727809",
-			"Confidence": 98.51358032226562
+			"Text": "23220",
+			"Confidence": 99.13534545898438
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "SC",
-			"Confidence": 98.73509979248047
+			"Text": "VA",
+			"Confidence": 99.1678237915039
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "SOUTH CAROLINA",
-			"Confidence": 98.18186950683594
+			"Text": "VIRGINIA",
+			"Confidence": 99.14825439453125
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "388888888",
-			"Confidence": 97.76197814941406
+			"Text": "T16700185",
+			"Confidence": 98.37761688232422
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "07/07/2029",
+			"Text": "07/15/2026",
 			"NormalizedValue": {
-				"Value": "2029-07-07T00:00:00",
+				"Value": "2026-07-15T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.59760284423828
+			"Confidence": 98.41053771972656
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "07/07/1998",
+			"Text": "07/15/1958",
 			"NormalizedValue": {
-				"Value": "1998-07-07T00:00:00",
+				"Value": "1958-07-15T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.5449447631836
+			"Confidence": 97.74288940429688
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "08/21/2019",
+			"Text": "10/27/2018",
 			"NormalizedValue": {
-				"Value": "2019-08-21T00:00:00",
+				"Value": "2018-10-27T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.19602966308594
+			"Confidence": 97.86910247802734
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.72991180419922
+			"Confidence": 98.9173583984375
 		}
 	},
 	{
@@ -134,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.3259506225586
+			"Confidence": 99.5587387084961
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.6001205444336
+			"Confidence": 99.66363525390625
 		}
 	},
 	{
@@ -152,7 +152,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.22380065917969
+			"Confidence": 99.57979583740234
 		}
 	},
 	{
@@ -161,7 +161,7 @@
 		},
 		"ValueDetection": {
 			"Text": "D",
-			"Confidence": 98.98291778564453
+			"Confidence": 98.82805633544922
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "145 SADOLEBROOKE AVE",
-			"Confidence": 97.80620574951172
+			"Text": "2300 WEST BROAD STREET",
+			"Confidence": 97.51529693603516
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.62496185302734
+			"Confidence": 99.6292495727539
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.61834716796875
+			"Confidence": 99.67108917236328
 		}
 	}
 ]

@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "AVERY",
-			"Confidence": 98.75267028808594
+			"Text": "MARK",
+			"Confidence": 99.61939239501953
 		}
 	},
 	{
@@ -14,7 +14,7 @@
 		},
 		"ValueDetection": {
 			"Text": "SAMPLE",
-			"Confidence": 99.30014038085938
+			"Confidence": 99.06270599365234
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "JOSEPH",
-			"Confidence": 99.0638427734375
+			"Text": "",
+			"Confidence": 99.3511734008789
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.65249633789062
+			"Confidence": 99.6484375
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "MINNEAPOLIS",
-			"Confidence": 98.79764556884766
+			"Text": "DES MOINES",
+			"Confidence": 98.73474884033203
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "554171234",
-			"Confidence": 97.70417785644531
+			"Text": "503011234",
+			"Confidence": 97.42777252197266
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "MN",
-			"Confidence": 98.88501739501953
+			"Text": "IA",
+			"Confidence": 98.91849517822266
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "MINNESOTA",
-			"Confidence": 98.06352996826172
+			"Text": "IOWA",
+			"Confidence": 94.3628158569336
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "A123456789123",
-			"Confidence": 98.47737884521484
+			"Text": "123XX6789",
+			"Confidence": 98.5697250366211
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "08/15/2022",
+			"Text": "01/12/2021",
 			"NormalizedValue": {
-				"Value": "2022-08-15T00:00:00",
+				"Value": "2021-01-12T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.54238891601562
+			"Confidence": 98.3416976928711
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "08/15/1957",
+			"Text": "01/12/1967",
 			"NormalizedValue": {
-				"Value": "1957-08-15T00:00:00",
+				"Value": "1967-01-12T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.36543273925781
+			"Confidence": 98.43460845947266
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "08/15/2018",
+			"Text": "11/07/2016",
 			"NormalizedValue": {
-				"Value": "2018-08-15T00:00:00",
+				"Value": "2016-11-07T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 98.77787017822266
+			"Confidence": 98.26630401611328
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.76116180419922
+			"Confidence": 98.91423797607422
 		}
 	},
 	{
@@ -134,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.11102294921875
+			"Confidence": 99.13651275634766
 		}
 	},
 	{
@@ -143,7 +143,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.59459686279297
+			"Confidence": 99.64205169677734
 		}
 	},
 	{
@@ -152,7 +152,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.04592895507812
+			"Confidence": 99.1038818359375
 		}
 	},
 	{
@@ -160,8 +160,8 @@
 			"Text": "CLASS"
 		},
 		"ValueDetection": {
-			"Text": "D",
-			"Confidence": 98.86869812011719
+			"Text": "C",
+			"Confidence": 99.14404296875
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "456 BLOOMINGTON AVE",
-			"Confidence": 97.61830139160156
+			"Text": "123 NORTH STREET APT 201",
+			"Confidence": 97.73932647705078
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.58990478515625
+			"Confidence": 99.64726257324219
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.60774993896484
+			"Confidence": 99.6454849243164
 		}
 	}
 ]

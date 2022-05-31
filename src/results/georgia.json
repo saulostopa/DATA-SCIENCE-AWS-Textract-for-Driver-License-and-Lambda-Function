@@ -5,7 +5,7 @@
 		},
 		"ValueDetection": {
 			"Text": "IMA",
-			"Confidence": 97.86753845214844
+			"Confidence": 98.71195983886719
 		}
 	},
 	{
@@ -13,8 +13,8 @@
 			"Text": "LAST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "CARDHOLDER",
-			"Confidence": 65.8795394897461
+			"Text": "SAMPLE",
+			"Confidence": 99.51573181152344
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 99.68146514892578
+			"Text": "GEORGIA",
+			"Confidence": 98.20742797851562
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.63401794433594
+			"Confidence": 99.644287109375
 		}
 	},
 	{
@@ -41,7 +41,7 @@
 		},
 		"ValueDetection": {
 			"Text": "ANYTOWN",
-			"Confidence": 98.71076965332031
+			"Confidence": 98.93305969238281
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "95818",
-			"Confidence": 97.54595947265625
+			"Text": "39999",
+			"Confidence": 98.74537658691406
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "CA",
-			"Confidence": 99.18111419677734
+			"Text": "GA",
+			"Confidence": 99.5146255493164
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "CALIFORNIA",
-			"Confidence": 97.88209533691406
+			"Text": "GEORGIA",
+			"Confidence": 98.52387237548828
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "I1234568",
-			"Confidence": 97.81040954589844
+			"Text": "999999",
+			"Confidence": 97.85095977783203
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "08/31/2014",
+			"Text": "02/22/2028",
 			"NormalizedValue": {
-				"Value": "2014-08-31T00:00:00",
+				"Value": "2028-02-22T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 92.09017181396484
+			"Confidence": 97.91834259033203
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "08/31/1977",
+			"Text": "02/22/1954",
 			"NormalizedValue": {
-				"Value": "1977-08-31T00:00:00",
+				"Value": "1954-02-22T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.80023193359375
+			"Confidence": 97.6017837524414
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "08/31/2009",
+			"Text": "02/22/2018",
 			"NormalizedValue": {
-				"Value": "2009-08-31T00:00:00",
+				"Value": "2018-02-22T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 94.80109405517578
+			"Confidence": 98.76406860351562
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 99.03291320800781
+			"Confidence": 98.91996002197266
 		}
 	},
 	{
@@ -134,7 +134,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 98.83920288085938
+			"Confidence": 99.24769592285156
 		}
 	},
 	{
@@ -142,8 +142,8 @@
 			"Text": "VETERAN"
 		},
 		"ValueDetection": {
-			"Text": "VETERAN",
-			"Confidence": 98.79545593261719
+			"Text": "",
+			"Confidence": 99.62313842773438
 		}
 	},
 	{
@@ -152,7 +152,7 @@
 		},
 		"ValueDetection": {
 			"Text": "NONE",
-			"Confidence": 99.30583190917969
+			"Confidence": 99.32633209228516
 		}
 	},
 	{
@@ -161,7 +161,7 @@
 		},
 		"ValueDetection": {
 			"Text": "C",
-			"Confidence": 98.82291412353516
+			"Confidence": 99.11873626708984
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "2570 24TH STREET",
-			"Confidence": 96.78418731689453
+			"Text": "123 MAIN STREET",
+			"Confidence": 99.06538391113281
 		}
 	},
 	{
@@ -178,8 +178,8 @@
 			"Text": "COUNTY"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 99.55083465576172
+			"Text": "ANYCOUNTY",
+			"Confidence": 83.49969482421875
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.61766052246094
+			"Confidence": 99.64628601074219
 		}
 	}
 ]

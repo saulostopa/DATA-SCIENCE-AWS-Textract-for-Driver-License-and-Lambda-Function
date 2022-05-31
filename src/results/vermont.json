@@ -4,8 +4,8 @@
 			"Text": "FIRST_NAME"
 		},
 		"ValueDetection": {
-			"Text": "SALLY",
-			"Confidence": 97.28831481933594
+			"Text": "JOHN",
+			"Confidence": 99.36640930175781
 		}
 	},
 	{
@@ -14,7 +14,7 @@
 		},
 		"ValueDetection": {
 			"Text": "SAMPLE",
-			"Confidence": 99.38346099853516
+			"Confidence": 99.41533660888672
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 			"Text": "MIDDLE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 99.6468276977539
+			"Text": "A",
+			"Confidence": 98.93228912353516
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.6165542602539
+			"Confidence": 99.66810607910156
 		}
 	},
 	{
@@ -40,8 +40,8 @@
 			"Text": "CITY_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "YOUR CITY",
-			"Confidence": 71.12866973876953
+			"Text": "MONTPELIER",
+			"Confidence": 98.60880279541016
 		}
 	},
 	{
@@ -49,8 +49,8 @@
 			"Text": "ZIP_CODE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "12121",
-			"Confidence": 99.12210845947266
+			"Text": "123451234",
+			"Confidence": 85.8131103515625
 		}
 	},
 	{
@@ -58,8 +58,8 @@
 			"Text": "STATE_IN_ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "NY",
-			"Confidence": 98.92776489257812
+			"Text": "VT",
+			"Confidence": 98.80569458007812
 		}
 	},
 	{
@@ -67,8 +67,8 @@
 			"Text": "STATE_NAME"
 		},
 		"ValueDetection": {
-			"Text": "NEW YORK",
-			"Confidence": 98.9041519165039
+			"Text": "VERMONT",
+			"Confidence": 99.1597671508789
 		}
 	},
 	{
@@ -76,8 +76,8 @@
 			"Text": "DOCUMENT_NUMBER"
 		},
 		"ValueDetection": {
-			"Text": "000000000",
-			"Confidence": 55.652835845947266
+			"Text": "12345678",
+			"Confidence": 98.70245361328125
 		}
 	},
 	{
@@ -85,12 +85,12 @@
 			"Text": "EXPIRATION_DATE"
 		},
 		"ValueDetection": {
-			"Text": "07-18-13",
+			"Text": "01/06/2023",
 			"NormalizedValue": {
-				"Value": "2013-07-18T00:00:00",
+				"Value": "2023-01-06T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 96.25869750976562
+			"Confidence": 98.01668548583984
 		}
 	},
 	{
@@ -98,12 +98,12 @@
 			"Text": "DATE_OF_BIRTH"
 		},
 		"ValueDetection": {
-			"Text": "07-18-83",
+			"Text": "01/06/1968",
 			"NormalizedValue": {
-				"Value": "1983-07-18T00:00:00",
+				"Value": "1968-01-06T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.32736206054688
+			"Confidence": 98.1795425415039
 		}
 	},
 	{
@@ -111,12 +111,12 @@
 			"Text": "DATE_OF_ISSUE"
 		},
 		"ValueDetection": {
-			"Text": "07-18-05",
+			"Text": "01/05/2019",
 			"NormalizedValue": {
-				"Value": "2005-07-18T00:00:00",
+				"Value": "2019-01-05T00:00:00",
 				"ValueType": "Date"
 			},
-			"Confidence": 97.319091796875
+			"Confidence": 98.20003509521484
 		}
 	},
 	{
@@ -125,7 +125,7 @@
 		},
 		"ValueDetection": {
 			"Text": "DRIVER LICENSE FRONT",
-			"Confidence": 98.55876922607422
+			"Confidence": 99.00961303710938
 		}
 	},
 	{
@@ -133,8 +133,8 @@
 			"Text": "ENDORSEMENTS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 98.99113464355469
+			"Text": "",
+			"Confidence": 42.918365478515625
 		}
 	},
 	{
@@ -142,8 +142,8 @@
 			"Text": "VETERAN"
 		},
 		"ValueDetection": {
-			"Text": "",
-			"Confidence": 99.51579284667969
+			"Text": "VETERAN",
+			"Confidence": 99.10335540771484
 		}
 	},
 	{
@@ -151,8 +151,8 @@
 			"Text": "RESTRICTIONS"
 		},
 		"ValueDetection": {
-			"Text": "NONE",
-			"Confidence": 98.44417572021484
+			"Text": "BNW",
+			"Confidence": 97.9590835571289
 		}
 	},
 	{
@@ -160,8 +160,8 @@
 			"Text": "CLASS"
 		},
 		"ValueDetection": {
-			"Text": "DM",
-			"Confidence": 96.09414672851562
+			"Text": "A",
+			"Confidence": 98.94813537597656
 		}
 	},
 	{
@@ -169,8 +169,8 @@
 			"Text": "ADDRESS"
 		},
 		"ValueDetection": {
-			"Text": "1010 ANYPLACE ST",
-			"Confidence": 97.05760192871094
+			"Text": "",
+			"Confidence": 7.979544162750244
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.53953552246094
+			"Confidence": 99.6248779296875
 		}
 	},
 	{
@@ -188,7 +188,7 @@
 		},
 		"ValueDetection": {
 			"Text": "",
-			"Confidence": 99.63217163085938
+			"Confidence": 99.69007110595703
 		}
 	}
 ]
