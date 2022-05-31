@@ -53,7 +53,7 @@ This section list the major frameworks/libraries/services used to bootstrap this
 </div>
   
 ```sh
-  https://abcdefghijkl.lambda-url.us-east-1.on.aws/?key=driver-license-ex10.jpeg
+  https://abcdefghijkl.lambda-url.us-east-1.on.aws/?key=driver-license-alabama.png
   ```
 
 8. See the result template below.
