@@ -48,8 +48,10 @@ This section list the major frameworks/libraries/services used to bootstrap this
 
 7. Call API bellow in Insomnia or Postman via GET sending the key as name of image to recognize stored on AWS S3.
 
->> <img src="src/images/driver-license-ex10.jpeg" width="500" />
-
+<div align="center">
+  <img src="src/images/driver-license-ex10.jpeg" width="400" />
+</div>
+  
 ```sh
   https://abcdefghijkl.lambda-url.us-east-1.on.aws/?key=driver-license-ex10.jpeg
   ```
