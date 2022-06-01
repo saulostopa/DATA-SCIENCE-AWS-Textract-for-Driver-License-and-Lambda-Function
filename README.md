@@ -15,6 +15,19 @@
   </p>
 </div>
 
+<br />
+<br />
+
+<!-- RESULT -->
+## Example Result
+
+<div align="center">
+  See how it works integrated with frontend, backend and lambda.
+  <img src="images/screenshot-movie.gif" />
+</div>
+
+<br />
+<br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -22,6 +35,9 @@
 This project uses a Python API to recognition of the driver license to extract information of user.
 
 <img src="images/screenshot.jpeg" />
+
+<br />
+<br />
 
 ## Built With
 
@@ -31,6 +47,9 @@ This section list the major frameworks/libraries/services used to bootstrap this
 * [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
 * [AWS API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
 * [AWS Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
+
+<br />
+<br />
 
 ## How to use:
 
